@@ -28,12 +28,12 @@ public class TestHomepage extends CommonAPI {
     public void searchName() {
         homepage.emailOrPhone.sendKeys("ahmedkawsar21@yahoo.com");
         sleepFor(1);
-        homepage.logInPassword.sendKeys("wd385783");
+        homepage.logInPassword.sendKeys("gp428720");
         sleepFor(1);
         homepage.clickLoginButton();
-        sleepFor(1);
-        driver.findElement(By.className("_1frb")).sendKeys("sakil ahmod", Keys.ENTER);
-        sleepFor(1);
+        sleepFor(2);
+        driver.findElement(By.className("_1frb")).sendKeys(" Sakil ahmod ", Keys.ENTER);
+        sleepFor(5);
 
 
     }

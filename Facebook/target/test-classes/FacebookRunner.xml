@@ -3,10 +3,7 @@
 
 <suite name="Selenium Test Suite" parallel="false">
 
-    <parameter name="cloud" value="false"/>
-    <parameter name="envName" value="browserstack"/>
     <parameter name="browser" value="chrome"/>
-    <parameter name="browserVersion" value="74.0"/>
     <parameter name="url" value="http://www.facebook.com"/>
     <parameter name="platform" value="mac"/>
 

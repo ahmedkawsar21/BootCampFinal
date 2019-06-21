@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4f18673-d4a1-435a-b93b-a248df5a9f2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/regressionSuite/TestHomepage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/Cl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/Extent-Report/ExtentReport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:32AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:34AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:35AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:42AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:44AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:55AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-01:57AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-02:18AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-02:24AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-02:25AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-02:26AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-02:30AM).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/screenshots/searchName (06.18.2019-02:32AM).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/regressionSuite/TestHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/regressionSuite/TestHomepage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/utility/ExcelReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToMongoDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/ConnectToSqlDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/databases/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/ExtentTestManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/reporting/TestLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/utility/ExcelReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,15 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/regression/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#706#707#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -82,85 +45,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/TestHomepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/regressionSuite/TestHomepage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-131">
-              <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="277">
+              <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -180,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Facebook/src/test/resources/Runner.xml" />
         <option value="$PROJECT_DIR$/Facebook/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/pom.xml" />
@@ -193,16 +123,17 @@
         <option value="$PROJECT_DIR$/Citibank/src/test/java/TestHomepage.java" />
         <option value="$PROJECT_DIR$/Citibank/src/main/java/Homepage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/HomePage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/TestHomepage.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/regression/HomePage.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/regressionSuite/TestHomepage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Cnn/src/main/java/Homepage.java" />
         <option value="$PROJECT_DIR$/Cnn/src/test/java/TestHomepage.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java" />
       </list>
     </option>
   </component>
@@ -216,7 +147,7 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="828" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -224,7 +155,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,6 +279,14 @@
               <item name="Citibank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bootcamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Citibank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Bootcamp" type="b2602c69:ProjectViewProjectNode" />
@@ -496,7 +435,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -542,7 +481,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/kawsar/Desktop/Bootcamp/Amazon/src/test/resources/AmazonRunner.xml">
+  <component name="RunManager" selected="TestNG./Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml">
     <configuration name="TestHomepage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Facebook" />
       <extension name="coverage">
@@ -582,8 +521,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/kawsar/Desktop/Bootcamp/Amazon/src/test/resources/AmazonRunner.xml" />
         <item itemvalue="TestNG./Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" />
+        <item itemvalue="TestNG./Users/kawsar/Desktop/Bootcamp/Amazon/src/test/resources/AmazonRunner.xml" />
         <item itemvalue="TestNG.TestHomepage" />
       </list>
     </recent_temporary>
@@ -601,23 +540,14 @@
       <workItem from="1560829474120" duration="9895000" />
       <workItem from="1560876177553" duration="2017000" />
       <workItem from="1560894179453" duration="1873000" />
-      <workItem from="1560899114619" duration="5051000" />
+      <workItem from="1560899114619" duration="5734000" />
+      <workItem from="1560922162147" duration="366000" />
+      <workItem from="1560982474413" duration="1306000" />
+      <workItem from="1561091753479" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 19h 36m 45s.xml">
-      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 19h 39m 51s.xml">
-      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 19h 41m 44s.xml">
-      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 19h 43m 15s.xml">
-      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.18 at 19h 45m 14s.xml">
       <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -636,14 +566,27 @@
     <history-entry file="_Users_kawsar_Desktop_Bootcamp_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 20h 10m 25s.xml">
       <configuration name="/Users/kawsar/Desktop/Bootcamp/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.21 at 00h 47m 05s.xml">
+      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.21 at 00h 48m 12s.xml">
+      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.21 at 00h 49m 21s.xml">
+      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kawsar_Desktop_Bootcamp_Facebook_src_test_resources_FacebookRunner_xml - 2019.06.21 at 00h 50m 11s.xml">
+      <configuration name="/Users/kawsar/Desktop/Bootcamp/Facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18836000" />
+    <option name="totallyTimeSpent" value="21874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27110156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -652,7 +595,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6084337" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46024096" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -660,7 +603,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.26024097" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.12771085" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.26086956" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -715,29 +658,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Citibank/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
@@ -745,18 +668,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ExcelReader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/ExcelReader.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -802,44 +717,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/regression/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-131">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="420">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -853,48 +734,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="77">
           <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        <state relative-caret-position="539">
+          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Citibank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/regressionSuite/TestHomepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="420">
           <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/regression/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cnn/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="555">
           <caret line="37" column="61" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/regression/Homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/TestHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -905,10 +817,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cnn/src/test/java/TestHomepage.java">
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/regressionSuite/TestHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="34" column="73" selection-start-line="34" selection-start-column="73" selection-end-line="34" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
