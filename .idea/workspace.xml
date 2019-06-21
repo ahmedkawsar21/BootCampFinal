@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4f18673-d4a1-435a-b93b-a248df5a9f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/testPages/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/testPages/TestHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/regression/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/regressionSuite/TestHomepage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Citibank/src/main/java/pages/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Citibank/src/main/java/pages/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Citibank/src/test/java/testPages/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Citibank/src/test/java/testPages/TestHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cnn/src/main/java/pages/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/src/main/java/pages/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cnn/src/test/java/testPages/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cnn/src/test/java/testPages/TestHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/main/java/pages/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/main/java/pages/Homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/testPages/TestHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/testPages/TestHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/target/classes/regression/Homepage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/FacebookRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/regressionSuite/TestHomepage.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,7 +71,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testPages/TestHomepage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="331">
               <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
             </state>
           </provider>
@@ -751,7 +735,7 @@
       <workItem from="1560899114619" duration="5734000" />
       <workItem from="1560922162147" duration="366000" />
       <workItem from="1560982474413" duration="1306000" />
-      <workItem from="1561091753479" duration="24817000" />
+      <workItem from="1561091753479" duration="25352000" />
     </task>
     <servers />
   </component>
@@ -788,7 +772,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46008000" />
+    <option name="totallyTimeSpent" value="46543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -808,9 +792,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.5638554" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" visible="true" weight="0.30963856" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.26086956" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1149,7 +1133,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testPages/TestHomepage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
+        <state relative-caret-position="331">
           <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
         </state>
       </provider>
