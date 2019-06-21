@@ -19,7 +19,7 @@ public class TestHomepage extends CommonAPI {
     public void facebookLogin() {
         homepage.emailOrPhone.sendKeys("ahmedkawsar21@yahoo.com");
         sleepFor(1);
-        homepage.logInPassword.sendKeys("wd385783");
+        homepage.logInPassword.sendKeys("password");
         sleepFor(1);
         homepage.clickLoginButton();
         sleepFor(1);
@@ -28,7 +28,7 @@ public class TestHomepage extends CommonAPI {
     public void searchName() {
         homepage.emailOrPhone.sendKeys("ahmedkawsar21@yahoo.com");
         sleepFor(1);
-        homepage.logInPassword.sendKeys("gp428720");
+        homepage.logInPassword.sendKeys("password");
         sleepFor(1);
         homepage.clickLoginButton();
         sleepFor(2);
