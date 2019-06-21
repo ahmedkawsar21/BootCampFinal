@@ -24,7 +24,7 @@ public class TestHomepage extends CommonAPI {
         homepage.clickLoginButton();
         sleepFor(1);
     }
-    @Test
+
     public void searchName() {
         homepage.emailOrPhone.sendKeys("ahmedkawsar21@yahoo.com");
         sleepFor(1);
@@ -32,9 +32,22 @@ public class TestHomepage extends CommonAPI {
         sleepFor(1);
         homepage.clickLoginButton();
         sleepFor(2);
-        driver.findElement(By.className("_1frb")).sendKeys(" Sakil ahmod ", Keys.ENTER);
+        driver.findElement(By.className("_1frb")).sendKeys(" Mitun Das ", Keys.ENTER);
         sleepFor(5);
+    }
 
+
+    public void commentFriend() {
+        homepage.emailOrPhone.sendKeys("ahmedkawsar21@yahoo.com");
+        sleepFor(1);
+        homepage.logInPassword.sendKeys("gp428720");
+        sleepFor(1);
+        homepage.clickLoginButton();
+        sleepFor(2);
+        driver.findElement(By.className("_1frb")).sendKeys(" Mitun Das ", Keys.ENTER);
+        sleepFor(1);
+        driver.findElement(By.xpath("//*[@id=\"xt_uniq_17\"]/div/div/div[1]/div[1]/div/a")).click();
+        sleepFor(1);
 
     }
 
