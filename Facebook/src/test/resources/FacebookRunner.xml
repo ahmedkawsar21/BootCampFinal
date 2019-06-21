@@ -4,12 +4,12 @@
 <suite name="Selenium Test Suite" parallel="false">
 
     <parameter name="browser" value="chrome"/>
-    <parameter name="url" value="http://www.facebook.com"/>
+    <parameter name="url" value="http://www.citi.com"/>
     <parameter name="platform" value="mac"/>
 
-    <test name="Facebook test">
+    <test name="Citi test">
         <classes>
-            <class name="regressionSuite.TestHomepage"/>
+            <class name="testPages.TestHomepage"/>
         </classes>
     </test>
 </suite>

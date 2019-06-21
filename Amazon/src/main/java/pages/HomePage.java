@@ -1,4 +1,4 @@
-package regression;
+package pages;
 
 import base.CommonAPI;
 import org.openqa.selenium.WebElement;
@@ -17,6 +17,10 @@ public class HomePage extends CommonAPI {
     public static WebElement signInfromSignInButton;
     @FindBy(xpath = "//*[@id=\"twotabsearchtextbox\"]")
     public static WebElement searchBox;
+    @FindBy(xpath = "//*[@id=\"nav-xshop\"]/a[1]")
+    WebElement dealsOfTheDay;
+    @FindBy(xpath = "//*[@id=\"nav-hamburger-menu\"]/i")
+    public static WebElement scrollDownMenu;
 
     public void clickAccount() {
         account.click();
@@ -30,5 +34,12 @@ public class HomePage extends CommonAPI {
     public void clearSearchBox() {
         searchBox.clear();
 
+    }
+    public void ClickShopDealsOfTheDay() {
+        dealsOfTheDay.click();
+
+    }
+    public void clickScrollDownMenu() {
+        scrollDownMenu.click();
     }
 }

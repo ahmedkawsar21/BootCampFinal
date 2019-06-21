@@ -10,7 +10,7 @@
 
     <test name="Amazon test">
         <classes>
-            <class name="regressionSuite.TestHomepage"/>
+            <class name="testPages.TestHomepage"/>
         </classes>
     </test>
 </suite>
